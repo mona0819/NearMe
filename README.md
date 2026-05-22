@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-## PLACES
+5places.html
 ```
 <html>
     <head>
@@ -47,7 +47,7 @@ Execute the programs and publish them.
     </body>
 </html>
 ```
-## 1. COLLECTOR OFFICE
+Collector.html
 ```
 <html>
     <head>
@@ -71,7 +71,7 @@ Execute the programs and publish them.
     </body>
 </html>
 ```
-## 2. HOSPITAL
+Hospital.html
 ```
 <html>
     <head>
@@ -94,7 +94,7 @@ people of Kanchipuram and nearby areas.
     </body>
 </html>
 ```
-# 3. TEMPLE
+Ktemple.html
 ```
 <html>
     <head>
@@ -119,7 +119,7 @@ people of Kanchipuram and nearby areas.
     </body>
 </html>
 ```
-# 4. TEXTILES
+Sarees.html
 ```
 <html>
     <head>
@@ -143,7 +143,7 @@ people of Kanchipuram and nearby areas.
     </body>
 </html>
 ```
-# 5. SCHOOL
+School.html
 ```
 <html>
     <head>
